@@ -3,6 +3,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelorenno95)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mrenno_)
+<a href = "mailto:mrenno95@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 ![xMrenno GitHub stats](https://github-readme-stats.vercel.app/api?username=xmrenno&show_icons=true&theme=tokyonight)
 
